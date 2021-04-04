@@ -1,0 +1,10 @@
+C:\Users\seymo\Desktop\TMam\ModTestForReal\ModTestForReal\bin\Debug\ModTestForReal.exe.config
+C:\Users\seymo\Desktop\TMam\ModTestForReal\ModTestForReal\bin\Debug\ModTestForReal.exe
+C:\Users\seymo\Desktop\TMam\ModTestForReal\ModTestForReal\bin\Debug\ModTestForReal.pdb
+C:\Users\seymo\Desktop\TMam\ModTestForReal\ModTestForReal\obj\Debug\ModTestForReal.csprojAssemblyReference.cache
+C:\Users\seymo\Desktop\TMam\ModTestForReal\ModTestForReal\obj\Debug\ModTestForReal.Form1.resources
+C:\Users\seymo\Desktop\TMam\ModTestForReal\ModTestForReal\obj\Debug\ModTestForReal.Properties.Resources.resources
+C:\Users\seymo\Desktop\TMam\ModTestForReal\ModTestForReal\obj\Debug\ModTestForReal.csproj.GenerateResource.cache
+C:\Users\seymo\Desktop\TMam\ModTestForReal\ModTestForReal\obj\Debug\ModTestForReal.csproj.CoreCompileInputs.cache
+C:\Users\seymo\Desktop\TMam\ModTestForReal\ModTestForReal\obj\Debug\ModTestForReal.exe
+C:\Users\seymo\Desktop\TMam\ModTestForReal\ModTestForReal\obj\Debug\ModTestForReal.pdb

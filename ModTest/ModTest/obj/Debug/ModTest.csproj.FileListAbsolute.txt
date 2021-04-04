@@ -1,0 +1,15 @@
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\bin\Debug\ModTest.exe.config
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\bin\Debug\ModTest.exe
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\bin\Debug\ModTest.pdb
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\ModTest.csprojAssemblyReference.cache
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\MainWindow.g.cs
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\App.g.cs
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\ModTest_MarkupCompile.cache
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\ModTest_MarkupCompile.lref
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\MainWindow.baml
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\ModTest.g.resources
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\ModTest.Properties.Resources.resources
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\ModTest.csproj.GenerateResource.cache
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\ModTest.csproj.CoreCompileInputs.cache
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\ModTest.exe
+C:\Users\seymo\Desktop\TMam\ModTest\ModTest\obj\Debug\ModTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\seymo\Desktop\TMam\My Formats\My Formats\bin\Debug\My Formats.exe.config
+C:\Users\seymo\Desktop\TMam\My Formats\My Formats\bin\Debug\My Formats.exe
+C:\Users\seymo\Desktop\TMam\My Formats\My Formats\bin\Debug\My Formats.pdb
+C:\Users\seymo\Desktop\TMam\My Formats\My Formats\obj\Debug\My Formats.csprojAssemblyReference.cache
+C:\Users\seymo\Desktop\TMam\My Formats\My Formats\obj\Debug\My_Formats.Properties.Resources.resources
+C:\Users\seymo\Desktop\TMam\My Formats\My Formats\obj\Debug\My Formats.csproj.GenerateResource.cache
+C:\Users\seymo\Desktop\TMam\My Formats\My Formats\obj\Debug\My Formats.csproj.CoreCompileInputs.cache
+C:\Users\seymo\Desktop\TMam\My Formats\My Formats\obj\Debug\My Formats.exe
+C:\Users\seymo\Desktop\TMam\My Formats\My Formats\obj\Debug\My Formats.pdb
+C:\Users\seymo\Desktop\TMam\My Formats\My Formats\obj\Debug\My_Formats.Form1.resources

@@ -1,0 +1,9 @@
+C:\Users\seymo\Desktop\TMam\AutoCompleteThing\AutoCompleteThing\bin\Debug\AutoCompleteThing.exe.config
+C:\Users\seymo\Desktop\TMam\AutoCompleteThing\AutoCompleteThing\bin\Debug\AutoCompleteThing.exe
+C:\Users\seymo\Desktop\TMam\AutoCompleteThing\AutoCompleteThing\bin\Debug\AutoCompleteThing.pdb
+C:\Users\seymo\Desktop\TMam\AutoCompleteThing\AutoCompleteThing\obj\Debug\AutoCompleteThing.Form1.resources
+C:\Users\seymo\Desktop\TMam\AutoCompleteThing\AutoCompleteThing\obj\Debug\AutoCompleteThing.Properties.Resources.resources
+C:\Users\seymo\Desktop\TMam\AutoCompleteThing\AutoCompleteThing\obj\Debug\AutoCompleteThing.csproj.GenerateResource.cache
+C:\Users\seymo\Desktop\TMam\AutoCompleteThing\AutoCompleteThing\obj\Debug\AutoCompleteThing.csproj.CoreCompileInputs.cache
+C:\Users\seymo\Desktop\TMam\AutoCompleteThing\AutoCompleteThing\obj\Debug\AutoCompleteThing.exe
+C:\Users\seymo\Desktop\TMam\AutoCompleteThing\AutoCompleteThing\obj\Debug\AutoCompleteThing.pdb
